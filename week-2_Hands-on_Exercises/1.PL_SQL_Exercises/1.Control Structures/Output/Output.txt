@@ -1,0 +1,22 @@
+
+Applied discount to cusomer_id : 4
+Applied discount to cusomer_id : 3
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.011
+
+Customer with id 4 is Set as Vip
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.009
+
+Reminder: Loan for customer John Doe is due on 03-JUL-2025
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.007
